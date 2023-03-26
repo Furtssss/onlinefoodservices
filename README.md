@@ -1,3 +1,3 @@
-# onlinefoodservices
+# FoodmineCourse
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-qbsj8j)
+Project made for the Angular Food Mine course
